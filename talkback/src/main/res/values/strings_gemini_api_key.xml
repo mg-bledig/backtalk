@@ -19,6 +19,10 @@
     <!-- Link text in the AI consent dialogs, to the terms that cover requests to the Gemini API. -->
     <string name="gemini_api_terms_link">Gemini API Additional Terms of Service</string>
 
+    <!-- Q&A labels when an alternative AI service is configured. -->
+    <string name="image_qna_button_text_ai">Ask AI</string>
+    <string name="image_qna_typing_button_text_ai">Type question for AI</string>
+
     <!-- Title of the setting, and its dialog, for an AI service other than Gemini that Describe image and Describe screen use. [CHAR LIMIT=50] -->
     <string name="title_pref_ai_service">Other AI service</string>
     <!-- Summary of the Other AI service setting when one is set up. [CHAR LIMIT=NONE] -->
